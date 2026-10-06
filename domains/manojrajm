@@ -1,10 +1,9 @@
-
 {
-    "owner": {
-        "username": "manojrajm",
-        "email": "gauthamtamizha007@gmail.com"
-    },
-    "records": {
-        "TXT": "0fe409984b6621e6aa70326f669f77"
-    }
+  "owner": {
+    "username": "manojrajm",
+    "email": "gauthamtamizha007@gmail.com"
+  },
+  "records": {
+    "CNAME": "manojrajm.github.io"
+  }
 }
